@@ -1,7 +1,8 @@
 # Covid-19 Tracker App
 
 #Wireframe
-![](Covid Tracker wireframe.JPG)
+![Covid Tracker wireframe](https://user-images.githubusercontent.com/63961200/113474784-a2189700-94a4-11eb-892e-06e71937275a.jpg)
+
 
 My App Website Deployment URL: https://covid-19-tracker-personal-proj.web.app
 
