@@ -1,5 +1,8 @@
 # Covid-19 Tracker App
 
+#Wireframe
+![](Covid Tracker wireframe.JPG)
+
 My App Website Deployment URL: https://covid-19-tracker-personal-proj.web.app
 
 This Project is a beginner friendly project I built using React. Some key Aspects:
