@@ -1,5 +1,8 @@
 # Covid-19 Tracker App
 
+# My App Website Deployment URL:
+https://covid-19-tracker-personal-proj.web.app
+
 # Things to do 
 1. Create Wireframe
 2. Create React App - build by guys from facebook. It allows me create app with one command line and it will set
@@ -17,10 +20,6 @@ of files inside the directory such as 'app.test.js', 'setupTest.js', 'logo.svg'
 
 # Wireframe
 ![Covid Tracker wireframe](https://user-images.githubusercontent.com/63961200/113474784-a2189700-94a4-11eb-892e-06e71937275a.jpg)
-
-
-# My App Website Deployment URL:
-https://covid-19-tracker-personal-proj.web.app
 
 This Project is a beginner friendly project I built using React. Some key Aspects:
 
