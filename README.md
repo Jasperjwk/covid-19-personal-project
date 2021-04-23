@@ -1,21 +1,6 @@
 # Covid-19 Tracker App
 
-# Wireframe
-![Covid Tracker wireframe](https://user-images.githubusercontent.com/63961200/113474784-a2189700-94a4-11eb-892e-06e71937275a.jpg)
-
-
-My App Website Deployment URL: https://covid-19-tracker-personal-proj.web.app
-
-This Project is a beginner friendly project I built using React. Some key Aspects:
-
-- Shows Live Cases, Recoveries, Deaths (clickable tabs)
-- Shows Worldwide cases and Country Based cases
-- Line Chart shows fluctuations over days, hover around to see exact figures
-- Clickable Markers on Map show Country stats
-
-extensions for the data for my app
-https://disease.sh/
-
+# Things to do 
 1. Create Wireframe
 2. Create React App - build by guys from facebook. It allows me create app with one command line and it will set
 up the entire app to get the things started for my first react app
@@ -29,6 +14,25 @@ of files inside the directory such as 'app.test.js', 'setupTest.js', 'logo.svg'
 9. Create Map
 10. Styling
 11. Deploy
+
+# Wireframe
+![Covid Tracker wireframe](https://user-images.githubusercontent.com/63961200/113474784-a2189700-94a4-11eb-892e-06e71937275a.jpg)
+
+
+# My App Website Deployment URL:
+https://covid-19-tracker-personal-proj.web.app
+
+This Project is a beginner friendly project I built using React. Some key Aspects:
+
+- Shows Live Cases, Recoveries, Deaths (clickable tabs)
+- Shows Worldwide cases and Country Based cases
+- Line Chart shows fluctuations over days, hover around to see exact figures
+- Clickable Markers on Map show Country stats
+
+extensions for the data for my app
+https://disease.sh/
+
+
 
 #My personal notes
 
