@@ -3,6 +3,13 @@
 # My App Website Deployment URL:
 https://covid-19-tracker-personal-proj.web.app
 
+![covid tracker](https://user-images.githubusercontent.com/63961200/116082387-ec6cec80-a6cd-11eb-8c3c-1d3f6c439900.gif)
+
+
+# Wireframe
+![Covid Tracker wireframe](https://user-images.githubusercontent.com/63961200/113474784-a2189700-94a4-11eb-892e-06e71937275a.jpg)
+
+
 # Things to do 
 1. Create Wireframe
 2. Create React App - build by guys from facebook. It allows me create app with one command line and it will set
@@ -18,10 +25,17 @@ of files inside the directory such as 'app.test.js', 'setupTest.js', 'logo.svg'
 10. Styling
 11. Deploy
 
-# Wireframe
-![Covid Tracker wireframe](https://user-images.githubusercontent.com/63961200/113474784-a2189700-94a4-11eb-892e-06e71937275a.jpg)
+# Steps to deploy my project using firebase
 
-This Project is a beginner friendly project I built using React. Some key Aspects:
+1) npm install -g firebase-tools
+2) firebase init (hosting > build > y > n)
+3) npm run build
+4) firebase use "project id"
+5) firebase deploy
+6) To rerun the build, repeat step 3 and run step 5 to "firebase deploy --only hosting" (front-end) instead of "firebase deploy" 
+
+
+# This Project is a beginner friendly project I built using React. Some key Aspects:
 
 - Shows Live Cases, Recoveries, Deaths (clickable tabs)
 - Shows Worldwide cases and Country Based cases
@@ -30,7 +44,6 @@ This Project is a beginner friendly project I built using React. Some key Aspect
 
 extensions for the data for my app
 https://disease.sh/
-
 
 
 #My personal notes
